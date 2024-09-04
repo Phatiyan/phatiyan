@@ -1,3 +1,3 @@
 describe('example git', () => {
-    cy.visit('http://google.com');
+    cy.visit('https://swoctele.rid.go.th/');
 })
